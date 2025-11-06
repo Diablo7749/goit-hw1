@@ -1,0 +1,11 @@
+N,Посада,Мова програмування,Спеціалізація,Загальний досвід роботи,Досвід роботи на поточному місці,Зарплата.в.місяць,Місто,Стать,Вік
+1,Junior QA engineer,Manual QA,QA,0.5,0.5,400,Харків,жіноча,20
+2,Junior QA engineer,Manual QA,QA,0.2,0.2,430,Харків,жіноча,21
+3,Software Engineer,C#/.NET,DEV,4,1,2500,Київ,чоловіча,26
+4,Software Engineer,JavaScript,DEV,5,4,2000,Одеса,чоловіча,30
+5,Senior Software Engineer,JavaScript,DEV,10,0.5,4500,Інше,чоловіча,30
+6,Software Engineer,Python,DEV,1,0.2,800,Київ,чоловіча,26
+7,Project manager,None,PM,1,1,400,Київ,чоловіча,21
+8,Junior Software Engineer,C#/.NET,DEV,1,0.3,600,Хмельницький,чоловіча,23
+9,Senior Software Engineer,C++,DEV,6,1,3300,Київ,чоловіча,28
+10,Junior Software Engineer,Java,DEV,0.5,0.5,550,Харків,жіноча,23
